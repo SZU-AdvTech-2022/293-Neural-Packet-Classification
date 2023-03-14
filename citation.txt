@@ -1,0 +1,9 @@
+@inproceedings{REPO-294,
+    author = "Liang, Eric and Zhu, Hang and Jin, Xin and Stoica, Ion",
+    booktitle = "Proceedings of the ACM Special Interest Group on Data Communication",
+    numpages = "14",
+    pages = "256¨C269",
+    series = "SIGCOMM '19",
+    title = "{Neural Packet Classification}",
+    year = "2019"
+}
